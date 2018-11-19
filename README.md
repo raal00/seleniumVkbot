@@ -1,0 +1,2 @@
+# seleniumVkbot
+How to use selenium framework to create website parsers. I decided to show this example as vk.com bot which will parse website code and do spam in groups' comments. To get started we shell download googlechrome web driver and put it to project workspace. Then we use shown code by myself to test. This project contains .xml file. We will save our group links here. I've used object oriented code because we should be able to update this one and add new features. Good luck
