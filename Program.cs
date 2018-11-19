@@ -1,5 +1,5 @@
 ﻿/********************************************************************************
-*Project name :Lab1                                                             *
+*Project name :csSelenium                                                       *
 *Project type :С# Console Application                                           *
 *File name : Program.cs                                                         *
 *Language : C#                                                                  *
