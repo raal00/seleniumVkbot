@@ -1,4 +1,16 @@
-﻿using System;
+﻿/********************************************************************************
+*Project name :Lab1                                                             *
+*Project type :С# Console Application                                           *
+*File name : Program.cs                                                         *
+*Language : C#                                                                  *
+*Programmer: Raal: C# C++ Java developer                                        *
+*Created :19.11.2018                                                            *  
+*Last revision :19.11.2018                                                      *
+*Comment : selenium vk.com bot                                                  *
+*********************************************************************************/
+
+
+using System;
 using OpenQA.Selenium;
 using System.Threading;
 using OpenQA.Selenium.Interactions;
